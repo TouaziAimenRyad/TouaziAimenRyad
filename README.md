@@ -1,8 +1,13 @@
 # 💫 About Me:
-“A jack of all trades is a master of none, but oftentimes better than a master of one.”</br>
-AI & SAP: Developing an AI agent for quality assurance in SAP Analytics Cloud with SAP France.</br>
-Master’s Degree: Pursuing a master's in Data Engineering and Cloud Computing at AIVANCITY Paris.</br>
-Recent Graduate: Completed a Machine Learning for Data Science program at the University of Paris Cité.
+## **“A jack of all trades is a master of none, but oftentimes better than a master of one.”**
+- AI & SAP: Developing an AI agent for quality assurance in SAP Analytics Cloud with SAP France.</br>
+- Master’s Degree: Pursuing a master's in Data Engineering and Cloud Computing at AIVANCITY Paris 2024-2025.</br>
+- Recent Graduate: 
+  - Completed a Machine Learning for Data Science Master’s at the University of Paris Cité 2022-2024.</br>
+  - Completed a Bachlors in general computer science at the University of Paris Cité 2021-2022.</br>
+  - Completed 2 years of preparatory cycle and 1 year superieur cycle at the higher national school of compter science Algiers (ESIxINI) 2018-2021  
+    
+
 
 
 ## 🌐 Socials:
